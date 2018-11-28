@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>TJ Blog Mockup</title>
+    <link href="blogmock.css" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <button>Follow</button><a style="margin: 5px" href="#0">Sign In</a>/<a style="margin: 5px" href="#0">Sign Up</a><button><img class="search" src="data:image/png;base64,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"></button>
+    </header>
+    <div class="body">
+        <div class="profile">
+            <div class="zoom"><button><img class="profileimg" src="https://miro.medium.com/fit/c/240/240/0*N5_gFLxHuK0nzh6y.jpeg"></button>
+            </div>        
+            <div class="profileinfo">
+                <br><br><br><br>
+                <div class="fontsize fontdarkgrey">TJ Holowaychuk</div><br>
+                <div class="fontgrey">Code. Photography. Art.<br>
+                Jun 16, 2016 • 7 min read</div>                
+            </div>    
+        </div><br>
+        <div class="contenthead">Introducting Apex Ping</div>
+        <div class="contentbody">
+            I’d like to introduce Apex Ping! A minimalistic, but powerful uptime & performance monitoring service for websites and APIs. In this post I’ll cover features of Apex Ping, why I chose to build it first, and a few things I learned in the process. In future posts I’ll be detailing the implementation for anyone who is curious.
+        </div><br>
+        <div class="contentbody">
+            I soft-launched Ping about a month ago, built almost 100% on AWS Lambda, with 500 users it has already detected over a million errors, and performed over 25 million checks. Big thanks to the early adopters who have checked it out!
+        </div>
+        <img class="largeimage" src="https://cdn.slant.co/21bffea6-7514-4ba7-b6c2-9ee639abade5/-/format/jpeg/-/progressive/yes/-/preview/480x480/">
+        <br>
+        <div class="contenthead">Sun Tzu Quote</div><br>
+        <div class="contentbody">“If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle.”</div><br>
+        <img class="largeimage" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Battle_of_Oroi-Jalatu.jpg/400px-Battle_of_Oroi-Jalatu.jpg">
+    </div>
+</body>
+</html>
